@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="8" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-28T11:45:44 IST" name="Suite" finished-at="2023-11-28T11:45:45 IST" duration-ms="253">
+    <groups>
+    </groups>
+    <test started-at="2023-11-28T11:45:44 IST" name="Test1" finished-at="2023-11-28T11:45:44 IST" duration-ms="98">
+      <class name="TestNG.E">
+        <test-method signature="test1()[pri:0, instance:TestNG.E@6ca8564a]" started-at="2023-11-28T11:45:44 IST" name="test1" finished-at="2023-11-28T11:45:44 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test11()[pri:0, instance:TestNG.E@6ca8564a]" started-at="2023-11-28T11:45:44 IST" name="test11" finished-at="2023-11-28T11:45:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method signature="test1111()[pri:0, instance:TestNG.E@6ca8564a]" started-at="2023-11-28T11:45:44 IST" name="test1111" finished-at="2023-11-28T11:45:44 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1111 -->
+      </class> <!-- TestNG.E -->
+    </test> <!-- Test1 -->
+    <test started-at="2023-11-28T11:45:45 IST" name="Test2" finished-at="2023-11-28T11:45:45 IST" duration-ms="20">
+      <class name="TestNG.E">
+        <test-method signature="test1()[pri:0, instance:TestNG.E@694abbdc]" started-at="2023-11-28T11:45:45 IST" name="test1" finished-at="2023-11-28T11:45:45 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test111()[pri:0, instance:TestNG.E@694abbdc]" started-at="2023-11-28T11:45:45 IST" name="test111" finished-at="2023-11-28T11:45:45 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test111 -->
+      </class> <!-- TestNG.E -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
